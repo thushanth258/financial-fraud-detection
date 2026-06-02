@@ -126,6 +126,17 @@ The project uses a **Random Forest Classifier** for fraud detection.
 
 ---
 
+## Dataset
+
+The dataset is not included in this repository due to GitHub file size limitations.
+
+To train the model from scratch, download the Credit Card Fraud Detection dataset from Kaggle and place the `creditcard.csv` file in the project directory.
+
+Dataset Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+---
+
 ## Author
 
 Thushanthan R
