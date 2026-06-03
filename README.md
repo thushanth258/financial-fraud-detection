@@ -137,6 +137,20 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
+## Live Demo
+
+The Financial Fraud Detection System is deployed on Streamlit Community Cloud and can be accessed using the link below:
+
+🔗https://financial-fraud-detection-systems.streamlit.app/
+
+---
+
+## GitHub Repository
+
+🔗 https://github.com/thushanth258/financial-fraud-detection
+
+---
+
 ## Author
 
 Thushanthan R
